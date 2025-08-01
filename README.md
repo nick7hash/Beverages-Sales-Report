@@ -1,3 +1,6 @@
+### View Report Online --> https://nikihashi-beverages-sales-report.share.connect.posit.cloud
+
+
 ### Beverages Sales Analysis
 
 This project analyzes sales data from a coffee shop chain using Python and Quarto.  
