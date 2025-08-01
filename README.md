@@ -11,13 +11,13 @@ It helps answer questions like:
 - What time of day brings in the most sales?
 
 ### Files included
-coffee shop sales.xlsx   --> Raw sales data exported from the system
-coffee.db                --> SQlite database created using raw file
-ingestion_db.py          --> Python script to load the raw data into the database
-log.log                  --> Log file for debugging
-data_analysis.ipynb      --> Jupyter notebook for exploration & EDA
-report.ipynb             --> Final report in Notebook format by using Quarto
-report.html              --> Final report output (Rendered version can open in browser)
+- coffee shop sales.xlsx   --> Raw sales data exported from the system
+- coffee.db                --> SQlite database created using raw file
+- ingestion_db.py          --> Python script to load the raw data into the database
+- log.log                  --> Log file for debugging
+- data_analysis.ipynb      --> Jupyter notebook for exploration & EDA
+- report.ipynb             --> Final report in Notebook format by using Quarto
+- report.html              --> Final report output (Rendered version can open in browser)
 
 
 ### Tools Used
